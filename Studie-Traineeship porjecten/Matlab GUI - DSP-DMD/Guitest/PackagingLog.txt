@@ -1,0 +1,23 @@
+ant:
+<ant>
+  <mkdir dir="C:\Dropbox\Saxion\3e jaar\LT project\Matlab GUI\Guitest\for_redistribution" />
+  <mkdir dir="C:\Dropbox\Saxion\3e jaar\LT project\Matlab GUI\Guitest\for_testing" />
+  <mkdir dir="C:\Dropbox\Saxion\3e jaar\LT project\Matlab GUI\Guitest\for_redistribution_files_only" />
+</ant>
+mcc -C -o Guitest -W WinMain:Guitest -T link:exe -d 'C:\Dropbox\Saxion\3e jaar\LT project\Matlab GUI\Guitest\for_testing' -v 'C:\Dropbox\Saxion\3e jaar\LT project\Matlab GUI\Guitest.m' 
+Compiler version: 6.0 (R2015a)
+Dependency analysis by REQUIREMENTS.
+[Warning: Adding path "C:\Dropbox\Saxion\3e jaar\LT project\Matlab GUI" to
+Compiler path instance.] 
+Parsing file "C:\Dropbox\Saxion\3e jaar\LT project\Matlab GUI\Guitest.m"
+	(Referenced from: "Compiler Command Line").
+Deleting 0 temporary MEX authorization files.
+Generating file "C:\Dropbox\Saxion\3e jaar\LT project\Matlab GUI\Guitest\for_testing\readme.txt".
+Packaging...
+Adding custom icon C:\MATLAB\R2015a\toolbox\compiler\Resources\default_icon.ico to C:\Dropbox\Saxion\3e jaar\LT project\Matlab GUI\Guitest\for_testing\Guitest.exe.
+Attempting to embed the CTF archive into the application C:\Dropbox\Saxion\3e jaar\LT project\Matlab GUI\Guitest\for_testing\Guitest.exe.
+Finished embedding CTF archive. Deleting the external CTF archive.
+Creating the bundle...
+Web based installer created at C:\Dropbox\Saxion\3e jaar\LT project\Matlab GUI\Guitest\for_redistribution\MyAppInstaller_web.exe.
+Packaging complete.
+Elapsed packaging time was: 1 minutes and 4 seconds.
