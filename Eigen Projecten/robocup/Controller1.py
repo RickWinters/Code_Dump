@@ -14,7 +14,7 @@ class controller():
         #self.team.bots[random.randint(0,2)].role = 1
 
         bot = self.team.bots[0]
-        bot.role = 1
+        bot.role = 3
         bot.xx = bot.radius
         bot.yy = height/2
 
@@ -25,7 +25,7 @@ class controller():
         bot.kickforce = 5000
 
         bot = self.team.bots[2]
-        bot.role = 4
+        bot.role = 3
         bot.xx = width/4
         bot.yy = height/2
         bot.kickforce = 1000

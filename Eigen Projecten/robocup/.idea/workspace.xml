@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8be983c-dff7-4fcc-a615-698de1ab8566" name="Default" comment="" />
+    <list default="true" id="f8be983c-dff7-4fcc-a615-698de1ab8566" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/robocup.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/robocup.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/main_map.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="321" column="23" selection-start-line="321" selection-start-column="23" selection-end-line="321" selection-end-column="23" />
+              <caret line="333" column="61" lean-forward="true" selection-start-line="333" selection-start-column="61" selection-end-line="333" selection-end-column="61" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <element signature="e#2538#5336#0" />
@@ -27,8 +32,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Controller1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1496">
-              <caret line="107" column="28" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
+            <state relative-caret-position="1536">
+              <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <element signature="e#1319#1857#0" />
@@ -40,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllerleft.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+            <state relative-caret-position="-36">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <element signature="e#909#1654#0" />
@@ -54,8 +59,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_opponent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="901">
-              <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
+            <state relative-caret-position="64">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
                 <element signature="e#992#1737#0" />
@@ -74,6 +79,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -90,12 +98,12 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,11 +115,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,18 +178,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.060063224" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15437302" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33152175" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33044422" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32934782" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -259,33 +270,10 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main_map.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="321" column="23" selection-start-line="321" selection-start-column="23" selection-end-line="321" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#2538#5336#0" />
-            <element signature="e#8675#8728#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Controller1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="107" column="28" selection-start-line="107" selection-start-column="28" selection-end-line="107" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <element signature="e#1319#1857#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controllerleft.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        <state relative-caret-position="-36">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
             <element signature="e#909#1654#0" />
@@ -296,12 +284,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test_opponent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="94" column="41" selection-start-line="94" selection-start-column="41" selection-end-line="94" selection-end-column="41" />
+        <state relative-caret-position="64">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
             <element signature="e#992#1737#0" />
             <element signature="e#1801#2339#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controller1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1536">
+          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#1319#1857#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="333" column="61" lean-forward="true" selection-start-line="333" selection-start-column="61" selection-end-line="333" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#2538#5336#0" />
+            <element signature="e#8675#8728#0" />
           </folding>
         </state>
       </provider>
